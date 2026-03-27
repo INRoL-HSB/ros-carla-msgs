@@ -16,6 +16,9 @@ float32 throttle
 # -1. <= steer <= 1.
 float32 steer
 
+# -1. <= rear_steer <= 1.
+float32 rear_steer
+
 # 0. <= brake <= 1.
 float32 brake
 
